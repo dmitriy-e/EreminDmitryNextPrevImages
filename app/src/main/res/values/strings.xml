@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NextPrevImages</string>
+    <string name="description">Error while loading</string>
+    <string name="img">Img</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
